@@ -1,5 +1,6 @@
 body {
     background-color: #dde3ed;
+    font-family: nunito;
 }
 
 .container {
@@ -12,4 +13,9 @@ body {
 .image {
     width: 370px;
     margin-top:50px
+}
+
+a, :visited, :active {
+    text-decoration: none;
+    color: inherit;
 }
